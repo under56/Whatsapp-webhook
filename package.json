@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "Meta WhatsApp Webhook for Zoho Flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
